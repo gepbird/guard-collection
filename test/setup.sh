@@ -13,7 +13,7 @@ npm install -g --silent \
     prettier @fsouza/prettierd sql-formatter shellcheck shfmt &
 gem install -q rubocop &
 brew install \
-    swiftformat swift-format hadolint google-java-format pgformatter fnlfmt # Block, homebrew takes the longest time
+    swiftformat swift-format hadolint google-java-format pgformatter fnlfmt xmlformat # Block, homebrew takes the longest time
 
 # Install standalone binary packages
 bin="/home/runner/.local/bin"

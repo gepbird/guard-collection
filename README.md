@@ -30,6 +30,7 @@
 - [ ] [swiftformat](https://github.com/nicklockwood/SwiftFormat)
 - [ ] [swift-format](https://github.com/apple/swift-format)
 - [x] [sql-formatter](https://github.com/sql-formatter-org/sql-formatter)
+- [x] [xmlformat](https://github.com/someth2say/xmlformat)
 - [x] [yapf](https://github.com/google/yapf)
 
 ## Linters
