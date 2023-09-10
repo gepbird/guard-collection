@@ -38,5 +38,5 @@ mv latexindent-linux $bin/latexindent
 
 # test setup
 luarocks install vusted
-git clone https://github.com/nvimdev/guard.nvim /home/runner/guard.nvim
+git clone https://github.com/gepbird/guard.nvim -b collection-test /home/runner/guard.nvim
 mv /home/runner/guard.nvim/lua/guard ./lua/
